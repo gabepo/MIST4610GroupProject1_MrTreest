@@ -4,11 +4,11 @@
 ## Team Name - 21482 Group 3
 
 Team Members:
-- Tyson Elmore (@TysonElmore)
-- Matthew Liu (repo link)
-- Lucas Luxemburger (repo link)
-- Gabe Po (repo link)
-- Chris Trinh (repo link)
+- Tyson Elmore [@TysonElmore](https://github.com/TysonElmore)
+- Matthew Liu [@marshy6](https://github.com/marshy6)
+- Lucas Luxemburger [@lucasjbluxemburger](https://github.com/lucasjbluxemburger)
+- Gabe Po [@gabepo](https://github.com/gabepo)
+- Chris Trinh [@cat35795](https://github.com/cat35795)
 
 ## Scenario Description
 
