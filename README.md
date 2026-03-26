@@ -1,7 +1,7 @@
 
 # MIST 4610 Group Project 1: Mr. Treest
 
-Team Name - 21482 Group 3
+## Team Name - 21482 Group 3
 - Tyson Elmore (@TysonElmore)
 - Matthew Liu (repo link)
 - Lucas Luxemburger (repo link)
