@@ -3,7 +3,7 @@
 
 ## Team Name - 21482 Group 3
 
-Members
+Team Members:
 - Tyson Elmore (@TysonElmore)
 - Matthew Liu (repo link)
 - Lucas Luxemburger (repo link)
