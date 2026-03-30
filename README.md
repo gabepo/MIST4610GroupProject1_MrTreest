@@ -124,7 +124,7 @@ Query 7 showcases the number of volunteers that have clocked more hours than the
 This helps managers identify exceptional volunteers and understand engagement levels, which can guide retention strategies and volunteer recognition programs. Can be acknowledged and entered monthly raffles for rewards to incentivize people to commit more hours to the cause. Since we are running a nonprofit, volunteer hours are very important as well as people who are committed to the movement. 
 
 ### Query 8: Events Without Volunteer Assignments  
-Query 8 shows events that would pop up if no volunteers signed up for them. As we do not have volunteer data now, the code was not able to put anything underneath the columns. 
+Query 8 shows events that would pop up if no volunteers signed up for them. The code does not return any eventId's or eventDate's right now because all events have volunteers. Also included is an AND statement which is part of the multi condition WHERE statement. This AND is an example additional condition filtering by date, so management can see which events on certain dates don't have any volunteers. We use "2026-01-01" as an example. 
 
  <img width="1243" height="422" alt="image" src="https://github.com/user-attachments/assets/1f03d5e3-2c78-4ea8-b0d6-17df02ebe88f" />
 
