@@ -74,9 +74,7 @@ Lastly, the Site entity represents physical locations where trees are planted. E
 
 Query 1 shows how much each organization has donated to our nonprofit. It is not in any specific order (ex. largest to smallest) but has the companys name and amount that they have donated
 
-
 <img width="959" height="349" alt="Screenshot 2026-03-30 at 2 12 37 PM" src="https://github.com/user-attachments/assets/7012d7c7-5bd2-480c-acd7-a1ae22165abb" />
-
 
 This helps management evaluate which programs are most successful in attracting donations, allowing them to prioritize funding efforts and allocate resources more effectively.  It also makes it easier to track donation goals, making it possible to set a goal for a company and if they hit it they can have a section of replanted trees names after them. 
 
@@ -88,67 +86,40 @@ This helps management evaluate which programs are most successful in attracting 
 
 This allows managers to identify highly engaged volunteers, recognize top contributors, and make decisions about rewards, promotions, or leadership opportunities.
 
-(repeat above for the rest)
-
-## Database Information
-
 ### Query 3: ... 
 (description)
 
 <img width="890" height="337" alt="Screenshot 2026-03-30 at 2 17 11 PM" src="https://github.com/user-attachments/assets/9cf75fbb-567a-48ac-83d9-86bd48e93e82" />
 
-
-(justification)
-
-(repeat above for the rest)
-
-## Database Information
+This helps managers assess the productivity and effectiveness of individual planting events and improve planning for future events. 
 
 ### Query 4: ... 
 (description)
 
 <img width="894" height="322" alt="Screenshot 2026-03-30 at 2 24 24 PM" src="https://github.com/user-attachments/assets/0f8d0794-a000-4649-ac5d-344decd1b830" />
  
-
-(justification)
-
-(repeat above for the rest)
-
-## Database Information
+This provides insight into geographic coverage and helps managers identify underserved areas or opportunities for expansion.  
 
 ### Query 5: ... 
 (description)
 
 <img width="889" height="442" alt="Screenshot 2026-03-30 at 2 26 43 PM" src="https://github.com/user-attachments/assets/e3e0a3d3-57a0-461b-b4ad-5cc57415e25b" />
 
-
-(justification)
-
-(repeat above for the rest)
-
-## Database Information
+This helps management identify top-performing programs financially and understand which initiatives are most attractive to donors. 
 
 ### Query 6: ... 
 (description)
 
 <img width="894" height="322" alt="Screenshot 2026-03-30 at 2 24 24 PM" src="https://github.com/user-attachments/assets/832ef402-930a-4ac9-8096-901f57070ef1" />
 
-
-(justification)
-
-(repeat above for the rest)
-
-## Database Information
+This allows managers to evaluate and compare environmental impact across all communities, helping them identify which areas are performing well and which may need additional focus or resources.
 
 ### Query 7: ... 
 (description)
 
  <img width="989" height="655" alt="Screenshot 2026-03-30 at 2 29 13 PM" src="https://github.com/user-attachments/assets/07504c3a-b0d3-4318-96bd-69781d071266" />
 
-
-(justification)
-
-(repeat above for the rest)
+This helps managers identify exceptional volunteers and understand engagement levels, which can guide retention strategies and volunteer recognition programs. 
 
 ## Database Information
 
@@ -157,34 +128,21 @@ This allows managers to identify highly engaged volunteers, recognize top contri
 
  <img width="733" height="378" alt="Screenshot 2026-03-30 at 2 30 31 PM" src="https://github.com/user-attachments/assets/805feb9c-a906-4b21-a283-8ab12caa35c3" />
 
-
-(justification)
-
-(repeat above for the rest)
-
-## Database Information
+This highlights operational issues in event planning and staffing, allowing managers to address gaps and ensure future events are properly supported.
 
 ### Query 9: ... 
 (description)
 
 <img width="988" height="602" alt="Screenshot 2026-03-30 at 2 31 40 PM" src="https://github.com/user-attachments/assets/386e2128-678e-43c3-b6eb-4c222d3cb38e" />
 
-
-(justification)
-
-(repeat above for the rest)
-
-## Database Information
+This helps managers evaluate the efficiency of events by comparing output (trees planted) to input (volunteer hours), allowing them to improve planning, allocate resources more effectively, and replicate high-performing events.  
 
 ### Query 10: ... 
 (description)
 
 <img width="994" height="500" alt="Screenshot 2026-03-30 at 2 32 47 PM" src="https://github.com/user-attachments/assets/33ea7e1b-dca5-417d-ac23-af99f22e8fe7" />
 
-
-(justification)
-
-(repeat above for the rest)
+This helps identify highly valuable donors who are deeply engaged with the organization, allowing for targeted relationship management and fundraising strategies. 
 
 ## Database Information
 
