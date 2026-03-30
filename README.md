@@ -140,7 +140,7 @@ This helps managers evaluate the efficiency of events by comparing output (trees
 ### Query 10: Multi-Program Donors
 Query 10 tracks donors who have contributed to more than one program. This list pulls up the first and last names of donors that are a part of this special group of people. 
 
-<img width="994" height="500" alt="Screenshot 2026-03-30 at 2 32 47 PM" src="https://github.com/user-attachments/assets/33ea7e1b-dca5-417d-ac23-af99f22e8fe7" />
+<img width="990" height="484" alt="Screenshot 2026-03-30 at 6 02 21 PM" src="https://github.com/user-attachments/assets/bcbcfd75-5aab-4036-9347-1ec550dd5c43" />
 
 This helps identify highly valuable donors who are deeply engaged with the organization, allowing for targeted relationship management and fundraising strategies. There could also be a list of these serial donors' names that go on advertisements or other event shirts and merchandise. It makes people want to donate more and join this exclusive recognition.  
 
