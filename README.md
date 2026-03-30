@@ -79,7 +79,7 @@ Description)
 <img width="959" height="349" alt="Screenshot 2026-03-30 at 2 12 37 PM" src="https://github.com/user-attachments/assets/7012d7c7-5bd2-480c-acd7-a1ae22165abb" />
 
 
-(justification)
+This helps management evaluate which programs are most successful in attracting donations, allowing them to prioritize funding efforts and allocate resources more effectively. 
 
 ### Query 2: ... 
 (description)
@@ -87,7 +87,7 @@ Description)
 (<img width="895" height="409" alt="Screenshot 2026-03-30 at 2 14 59 PM" src="https://github.com/user-attachments/assets/eef226d3-ea1b-4161-a16b-4fbbe324e623" />
 
 
-(justification)
+This allows managers to identify highly engaged volunteers, recognize top contributors, and make decisions about rewards, promotions, or leadership opportunities.
 
 (repeat above for the rest)
 
