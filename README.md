@@ -40,7 +40,33 @@ Lastly, the Site entity represents physical locations where trees are planted. E
 
 ## Data Dictionary
 
-...
+<p>
+<img width="742" height="326" alt="image" src="https://github.com/user-attachments/assets/87633093-9288-4f6e-b983-a641f2927cda" />
+<p>
+<img width="736" height="286" alt="image" src="https://github.com/user-attachments/assets/ddceb9cd-d85d-4dbe-8f7b-71bb92a69781" />
+<p>
+<img width="731" height="186" alt="image" src="https://github.com/user-attachments/assets/bebba9e7-f84b-4cd3-8ccd-fa1dc6e8d261" />
+<p>
+<img width="730" height="206" alt="image" src="https://github.com/user-attachments/assets/0bede992-f645-4f37-8529-15939d70c16e" />
+<p>
+<img width="719" height="206" alt="image" src="https://github.com/user-attachments/assets/1f68c8e7-5b11-4214-af03-b2998371e8e4" />
+<p>
+<img width="820" height="186" alt="image" src="https://github.com/user-attachments/assets/cbe980d8-9b1e-48d3-916c-f128a7e903da" />
+<p>
+<img width="742" height="306" alt="image" src="https://github.com/user-attachments/assets/7aa820ba-d9d0-4c77-8816-c38a7bd893e4" />
+<p>
+<img width="762" height="346" alt="image" src="https://github.com/user-attachments/assets/7c141c17-2f98-4232-84af-feb534ccb047" />
+<p>
+<img width="715" height="146" alt="image" src="https://github.com/user-attachments/assets/63882e08-81f3-403e-8b1b-7b337bd2d862" />
+<p>
+<img width="721" height="206" alt="image" src="https://github.com/user-attachments/assets/314e9390-b46f-47ef-9fd6-eb1dcb513d4c" />
+<p>
+<img width="767" height="246" alt="image" src="https://github.com/user-attachments/assets/9c2cb9e8-d6bc-4304-be7d-af2d1c0fd3a6" />
+<p>
+<img width="742" height="226" alt="image" src="https://github.com/user-attachments/assets/6717b115-62aa-48dc-ba33-b1ff5fc91c6b" />
+<p>
+<img width="715" height="126" alt="image" src="https://github.com/user-attachments/assets/accb84a3-7081-4618-a663-b51ee7a167b2" />
+</p>
 
 ## Queries
 
