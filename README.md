@@ -93,4 +93,91 @@ Description)
 
 ## Database Information
 
-hi
+### Query 3: ... 
+(description)
+
+(Pic of Code) 
+
+(justification)
+
+(repeat above for the rest)
+
+## Database Information
+
+### Query 4: ... 
+(description)
+
+(Pic of Code) 
+
+(justification)
+
+(repeat above for the rest)
+
+## Database Information
+
+### Query 5: ... 
+(description)
+
+(Pic of Code) 
+
+(justification)
+
+(repeat above for the rest)
+
+## Database Information
+
+### Query 6: ... 
+(description)
+
+(Pic of Code) 
+
+(justification)
+
+(repeat above for the rest)
+
+## Database Information
+
+### Query 7: ... 
+(description)
+
+(Pic of Code) 
+
+(justification)
+
+(repeat above for the rest)
+
+## Database Information
+
+### Query 8: ... 
+(description)
+
+(Pic of Code) 
+
+(justification)
+
+(repeat above for the rest)
+
+## Database Information
+
+### Query 9: ... 
+(description)
+
+(Pic of Code) 
+
+(justification)
+
+(repeat above for the rest)
+
+## Database Information
+
+### Query 10: ... 
+(description)
+
+(Pic of Code) 
+
+(justification)
+
+(repeat above for the rest)
+
+## Database Information
+
