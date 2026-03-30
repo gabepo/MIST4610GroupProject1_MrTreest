@@ -74,18 +74,18 @@ Lastly, the Site entity represents physical locations where trees are planted. E
 
 ### Query 1: Total donations by program 
 
-<img width="319" height="173" alt="Screenshot 2026-03-30 at 2 07 34 PM" src="https://github.com/user-attachments/assets/e446c191-ea5d-4f3c-99b5-72c15a24b4fc" />
-
 Description)
 
-(screenshot of code goes here)
+<img width="959" height="349" alt="Screenshot 2026-03-30 at 2 12 37 PM" src="https://github.com/user-attachments/assets/7012d7c7-5bd2-480c-acd7-a1ae22165abb" />
+
 
 (justification)
 
 ### Query 2: ... 
 (description)
 
-(screenshot of code goes here)
+(<img width="895" height="409" alt="Screenshot 2026-03-30 at 2 14 59 PM" src="https://github.com/user-attachments/assets/eef226d3-ea1b-4161-a16b-4fbbe324e623" />
+
 
 (justification)
 
