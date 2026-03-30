@@ -36,7 +36,7 @@ Each volunteer must also have a background check record, which is represented by
 
 Lastly, the Site entity represents physical locations where trees are planted. Each site belongs to a single community, but a community can have many sites, reinforcing the one-to-many relationship between BeneficiaryCommunity and Site.
 
-<img width="856" height="749" alt="image" src="https://github.com/user-attachments/assets/adb2615b-b50f-402f-9091-c5b9a167c91c" />
+<img width="988" height="857" alt="MrTreestDataModelPNG" src="https://github.com/user-attachments/assets/1456ff4f-8629-48cb-ae37-1d5722a5531f" />
 
 ## Data Dictionary
 
