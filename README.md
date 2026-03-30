@@ -86,7 +86,6 @@ Query 2 shows how many hours an individual has dedicated to the movement. It has
 
 <img width="895" height="409" alt="Screenshot 2026-03-30 at 2 14 59 PM" src="https://github.com/user-attachments/assets/eef226d3-ea1b-4161-a16b-4fbbe324e623" />
 
-
 This allows managers to identify highly engaged volunteers, recognize top contributors, and make decisions about rewards, promotions, or leadership opportunities. It allows people who are earning hours for community service to track their hours easier and could incentivize others if we said we were rewarding the top 5 best volunteers. 
 
 ### Query 3: Trees Planted per Event  
@@ -124,8 +123,6 @@ Query 7 showcases the number of volunteers that have clocked more hours than the
 
 This helps managers identify exceptional volunteers and understand engagement levels, which can guide retention strategies and volunteer recognition programs. Can be acknowledged and entered monthly raffles for rewards to incentivize people to commit more hours to the cause. Since we are running a nonprofit, volunteer hours are very important as well as people who are committed to the movement. 
 
-## Database Information
-
 ### Query 8: Events Without Volunteer Assignments  
 Query 8 shows events that would pop up if no volunteers signed up for them. As we do not have volunteer data now, the code was not able to put anything underneath the columns. 
 
@@ -133,16 +130,12 @@ Query 8 shows events that would pop up if no volunteers signed up for them. As w
 
 This highlights operational issues in event planning and staffing, allowing managers to address gaps and ensure future events are properly supported. It will be very useful to operations, especially when there are more programs and multiple events happening each week. This will ensure that no events are understaffed or run poorly.  
 
- 
-
 ### Query 9: Event Efficiency (Trees per Volunteer Hour) 
 Query 9 identifies which planting events were the most efficient in terms of trees planted per volunteer hour. Listed are programs, trees planted, total hours spent working and then calculated is the trees per hour. The list is in descending order from most trees an hour to least.  
 
 <img width="988" height="602" alt="Screenshot 2026-03-30 at 2 31 40 PM" src="https://github.com/user-attachments/assets/386e2128-678e-43c3-b6eb-4c222d3cb38e" />
 
 This helps managers evaluate the efficiency of events by comparing output (trees planted) to input (volunteer hours), allowing them to improve planning, allocate resources more effectively, and replicate high-performing events. This data is important on showing what kind of system works the best to make sure that efficiency is at the maximum. In addition, this data is not always the most reliable, because not every event will have the same number of volunteers.  
-
-
 
 ### Query 10: Multi-Program Donors
 Query 10 tracks donors who have contributed to more than one program. This list pulls up the first and last names of donors that are a part of this special group of people. 
