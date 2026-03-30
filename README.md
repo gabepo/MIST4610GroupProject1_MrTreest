@@ -111,21 +111,21 @@ Query 4 shows what communities we have helped and the site that they were plante
  
 This provides insight into geographic coverage and helps managers identify underserved areas or opportunities for expansion. This will allow for an even distribution of trees around our area that we are assisting. 
 
-### Query 5: ... 
+### Query 5: High-Funding Programs
 (description)
 
 <img width="889" height="442" alt="Screenshot 2026-03-30 at 2 26 43 PM" src="https://github.com/user-attachments/assets/e3e0a3d3-57a0-461b-b4ad-5cc57415e25b" />
 
 This helps management identify top-performing programs financially and understand which initiatives are most attractive to donors. 
 
-### Query 6: ... 
+### Query 6: Communities by Total Trees Planted  
 (description)
 
 <img width="894" height="322" alt="Screenshot 2026-03-30 at 2 24 24 PM" src="https://github.com/user-attachments/assets/832ef402-930a-4ac9-8096-901f57070ef1" />
 
 This allows managers to evaluate and compare environmental impact across all communities, helping them identify which areas are performing well and which may need additional focus or resources.
 
-### Query 7: ... 
+### Query 7: Volunteers Exceeding Average Hours  
 (description)
 
  <img width="989" height="655" alt="Screenshot 2026-03-30 at 2 29 13 PM" src="https://github.com/user-attachments/assets/07504c3a-b0d3-4318-96bd-69781d071266" />
@@ -134,21 +134,21 @@ This helps managers identify exceptional volunteers and understand engagement le
 
 ## Database Information
 
-### Query 8: ... 
+### Query 8: Events Without Volunteer Assignments  
 (description)
 
  <img width="733" height="378" alt="Screenshot 2026-03-30 at 2 30 31 PM" src="https://github.com/user-attachments/assets/805feb9c-a906-4b21-a283-8ab12caa35c3" />
 
 This highlights operational issues in event planning and staffing, allowing managers to address gaps and ensure future events are properly supported.
 
-### Query 9: ... 
+### Query 9: Event Efficiency (Trees per Volunteer Hour) 
 (description)
 
 <img width="988" height="602" alt="Screenshot 2026-03-30 at 2 31 40 PM" src="https://github.com/user-attachments/assets/386e2128-678e-43c3-b6eb-4c222d3cb38e" />
 
 This helps managers evaluate the efficiency of events by comparing output (trees planted) to input (volunteer hours), allowing them to improve planning, allocate resources more effectively, and replicate high-performing events.  
 
-### Query 10: ... 
+### Query 10: Multi-Program Donors
 (description)
 
 <img width="994" height="500" alt="Screenshot 2026-03-30 at 2 32 47 PM" src="https://github.com/user-attachments/assets/33ea7e1b-dca5-417d-ac23-af99f22e8fe7" />
