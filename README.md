@@ -70,16 +70,7 @@ Lastly, the Site entity represents physical locations where trees are planted. E
 
 ## Queries
 
-Feature	Q1	Q2	Q3	Q4	Q5	Q6	Q7	Q8	Q9	Q10
-Multiple Table Join	X	X	X	X	X	X	X		X	X
-Subquery							X	X		X
-GROUP BY	X	X			X	X	X		X	X
-GROUP BY with HAVING					X		X		X	X
-Multi-condition WHERE								X		
-Built-in Functions	X	X			X	X	X		X	X
-REGEXP										X
-NOT EXISTS								X		<img width="716" height="145" alt="image" src="https://github.com/user-attachments/assets/fe6a83e7-b1ff-4fe7-8909-add29ded805a" />
-
+<img width="716" height="145" alt="image" src="https://github.com/user-attachments/assets/fe6a83e7-b1ff-4fe7-8909-add29ded805a" />
 
 
 ### Query 1: Total donations by program 
