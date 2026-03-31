@@ -130,7 +130,7 @@ Which volunteers have worked more hours than the average volunteer?
 
 ### Query 8: Events Without Volunteer Assignments
 Are there any planting events this year that did not have any volunteers assigned?
-- This query is designed to surface events with no volunteer coverage. It uses a multi-condition WHERE clause with an AND statement to also filter by date. In our current dataset all events are staffed, which actually validates our data integrity. The date filter (e.g. 2026-01-01) can be adjusted to target specific time windows
+- This query is designed to surface events with no volunteer coverage. It uses a multi-condition WHERE clause with an AND statement to also filter by date. In our current dataset all events are staffed, which actually validates our data integrity. The date filter (e.g. 2026-01-01) can be adjusted to target specific time windows.
 
  <img width="1243" height="422" alt="image" src="https://github.com/user-attachments/assets/1f03d5e3-2c78-4ea8-b0d6-17df02ebe88f" />
 
