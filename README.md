@@ -160,7 +160,7 @@ Name of the database: al_Group_21482_G3
 
 Software used: MySQL Workbench
 
-Sample data: The database is populated with sample data including donors, volunteers, planting events, and trees across communities.
+Sample data: The database is populated with sample data including donors, donations, volunteers, programs, planting events, sites and trees across communities.
 
 Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
 
