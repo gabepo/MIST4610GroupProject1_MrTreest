@@ -94,7 +94,7 @@ How many trees were planted at each event?
 
 <img width="890" height="337" alt="Screenshot 2026-03-30 at 2 17 11 PM" src="https://github.com/user-attachments/assets/9cf75fbb-567a-48ac-83d9-86bd48e93e82" />
 
-- This helps managers assess the productivity and effectiveness of individual planting events and improve planning for future events. This gives us an organized bank to account for how many each trees were planted at that event. 
+- This helps managers assess the productivity and effectiveness of individual planting events and improve planning for future events. This gives us an organized bank to account for how many trees were planted at that event. 
 
 ### Query 4: Sites Organized by Community
 Which sites are located within each community?
