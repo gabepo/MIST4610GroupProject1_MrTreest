@@ -138,7 +138,7 @@ Are there any planting events this year that did not have any volunteers assigne
 
 ### Query 9: Event Efficiency (Trees per Volunteer Hour)
 Which planting events were the most efficient in terms of trees planted per volunteer hour?
-- Query 9 identifies which planting events were the most efficient in terms of trees planted per volunteer hour. Listed are programs, trees planted, total hours spent working and then calculated is the trees per hour. The list is in descending order from most trees an hour to least.  
+- Query 9 identifies which planting events were the most efficient in terms of trees planted per volunteer hour. Listed are programs, trees planted, total hours spent working, and trees planted per hour. The list is in descending order from most trees per hour to least trees per hour.  
 
 <img width="988" height="602" alt="Screenshot 2026-03-30 at 2 31 40 PM" src="https://github.com/user-attachments/assets/386e2128-678e-43c3-b6eb-4c222d3cb38e" />
 
