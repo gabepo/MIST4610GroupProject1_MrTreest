@@ -126,7 +126,7 @@ Which volunteers have worked more hours than the average volunteer?
 
  <img width="989" height="655" alt="Screenshot 2026-03-30 at 2 29 13 PM" src="https://github.com/user-attachments/assets/07504c3a-b0d3-4318-96bd-69781d071266" />
 
-- This helps managers identify exceptional volunteers and understand engagement levels, which can guide retention strategies and volunteer recognition programs. Can be acknowledged and entered monthly raffles for rewards to incentivize people to commit more hours to the cause. Since we are running a nonprofit, volunteer hours are very important as well as people who are committed to the movement. 
+- This helps managers identify exceptional volunteers and understand engagement levels, which can guide retention strategies and volunteer recognition programs. Volunteers can be acknowledged and entered into monthly raffles for rewards, incentivizing them to commit more hours to the cause. 
 
 ### Query 8: Events Without Volunteer Assignments
 Are there any planting events this year that did not have any volunteers assigned?
